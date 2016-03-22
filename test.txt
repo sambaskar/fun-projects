@@ -4,3 +4,5 @@ text file
 more added
 third added
 fourth added
+
+fifth line added
